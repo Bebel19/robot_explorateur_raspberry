@@ -1,5 +1,5 @@
 # Raspberry Pi - Projet Fil Rouge 1A SRI 2023/2024
-![Python](https://img.shields.io/badge/python-blue)
+![Python](https://img.shields.io/badge/Built%20with-python-blue)
 ![Status](https://img.shields.io/badge/status-terminé-green)
 
 Ce dépôt contient le code exécuté sur le **Raspberry Pi** embarqué sur le robot explorateur, dans le cadre du **projet fil rouge 1A SRI (2023–2025)** à l’UPSSITECH Toulouse.  
