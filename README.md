@@ -72,6 +72,15 @@ Un script `launch_video_stream.sh` est fourni pour lancer automatiquement le str
 chmod +x launch_video_stream.sh
 ./launch_video_stream.sh
 ```
+---
+
+## 🎨 Demo
+
+<div align="center">
+  <img src="https://github.com/Bebel19/interface_robot_explorateur/blob/master/src/assets/image/20240512_195038.jpg?raw=true" alt="Robot explorateur" width="400"/>
+  <br/>
+  <img src="https://github.com/Bebel19/interface_robot_explorateur/blob/master/src/assets/video/robot_explorateur.gif?raw=true" alt="Robot explorateur GIF" width="800"/>
+</div>
 
 ---
 
